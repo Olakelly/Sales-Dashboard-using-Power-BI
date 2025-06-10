@@ -50,7 +50,7 @@ The dashboard is designed to help stakeholders quickly understand sales trends a
 
 ## 🛠 Tools Used
 
-- **Power BI / Tableau**: For data visualization
+- **Power BI: For data visualization
 - **Excel / CSV**: For raw data processing
 - **Map Visuals**: For geospatial profit analysis
 - **Treemaps, Line Graphs, Bar Charts**: For categorical and temporal insights
